@@ -4,7 +4,6 @@
 #
 %define		pdir	Regexp
 %define		pnam	IPv6
-%include	/usr/lib/rpm/macros.perl
 Summary:	Regexp::IPv6 - Regular expression for IPv6 addresses
 #Summary(pl.UTF-8):	
 Name:		perl-Regexp-IPv6
